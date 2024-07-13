@@ -9,8 +9,8 @@ __pycache__/
 # IntelliJ
 *.idea/
 
-# csv files
-*.csv
+# csv files in Datasets folder
+Datasets/*.csv
 
 # Distribution / packaging
 .Python
