@@ -1,0 +1,11 @@
+jupyter==1.0.0
+matplotlib==1.5.3
+numpy
+pandas
+scikit-learn==1.2.2
+imblearn
+category_encoders
+seaborn
+keras
+scikeras
+pickle
