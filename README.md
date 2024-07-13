@@ -69,17 +69,19 @@ all Python libraries required for running the code. Ensure that you have Python 
 
 3. Dataset
 
-   All the Datasets we used located in the `Dataset` directory. Due to different paths depending on the environment, you may need to change the path to the dataset in the code.
+   All the Datasets we used located in the `Dataset` directory. Due to different paths depending on the environment, you may need to change the path to the dataset in the source code.
 
 4. Run the Code
 
-   - To see the dataset1, dataset2 characteristic, use `Data Chracteristic.ipynb`
+- For **Dataset Characteristics Analysis**:
+   - For Dataset1 and Dataset2, refer to `Data Characteristic.ipynb`.
+   - For Dataset3's characteristics and preprocessing steps, see `DataPreprocessingForDataset3.ipynb`
 
-   - To see the dataset3 characteristic and preprocessing, see `dataset3` directory
 
-   - **To run and evaluate models, use `RunModels.ipynb` file**. Also, we have a detail KNN version writen in Java, check the `KNN/src`
+- For **Model Evaluation**: Consult `RunModels.ipynb` to review the outcomes from all models. Specifically, we have implemented our own version of the KNN model in Java, available in the `KNN\src` directory.
 
-   -  If you want to run this on Google Colab, use this link to see the models Source Code "https://drive.google.com/file/d/1mfH6CoZBWxSbvjLXWtGxheA6CVklN7uE/view?usp=sharing"
+
+-  If you want to run this on Google Colab, access the source code via this link: [Google Drive](https://drive.google.com/file/d/1mfH6CoZBWxSbvjLXWtGxheA6CVklN7uE/view?usp=sharing).
 
 
 
@@ -98,7 +100,7 @@ that Undersampling may not provide reliable evaluation results.*
 
 # Documentation
 
-Detailed about this project can be found in our `Report ML 20232.pdf` file in the Docs directory.
+Detailed about this project can be found in our [Report](https://github.com/chutrunganh/Fraud-Credit-Card-Detection-Group-17/blob/master/Docs/Report%20ML%2020232.pdf) in the Docs directory.
 
 # Contributors
 
