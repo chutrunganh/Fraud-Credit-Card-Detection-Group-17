@@ -2,7 +2,7 @@
 
 
 
-## Overview
+# Overview
 
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -20,7 +20,7 @@ This project is focused on the detection of fraudulent activities in credit card
 
 The primary objective of this project is to enhance the security of credit card transactions. By accurately identifying fraudulent transactions, we can prevent unauthorized activities and safeguard the financial assets of cardholders.
 
-## Models Used
+# Models Used
 
 In this project, we tried to implement and evaluate the performance of the following machine learning models:
 
@@ -46,7 +46,7 @@ Here is th summary of the results we obtained from the models:
 | ANN     | 0.99     | 0.64      | 0.69     | 0.75   |
 | DNN     | 0.89     | 0.90      | 0.82     | 0.75   |
 
-## Run the project
+# Run the project
 
 1. Clone the Repository
 
