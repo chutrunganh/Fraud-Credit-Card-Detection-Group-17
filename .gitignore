@@ -10,7 +10,7 @@ __pycache__/
 *.idea/
 
 # csv files in Datasets folder
-Datasets/*.csv
+Dataset/*.csv
 
 # Distribution / packaging
 .Python
