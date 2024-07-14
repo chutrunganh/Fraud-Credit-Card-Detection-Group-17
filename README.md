@@ -51,7 +51,7 @@ Here is th summary of the results we obtained from the models:
 | DT      | 1.0      | 1.0       | 1.0      | 1.0    |
 | RF      | 1.0      | 1.0       | 1.0      | 1.0    |
 | KNN     | 0.95     | 0.98      | 0.91     | 0.84   |
-| ANN     | 0.99     | 0.64      | 0.69     | 0.75   |
+| MLP     | 0.99     | 0.64      | 0.69     | 0.75   |
 | DNN     | 0.89     | 0.90      | 0.82     | 0.75   |
 
 # Run the project
