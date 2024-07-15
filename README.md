@@ -108,12 +108,12 @@ Detailed about this project can be found in our [Report](https://github.com/chut
 
 This project was developed by Group 17 for the Machine Learning course IT3910E, semester 20232 at Ha Noi University of Science and Technology.
 
-| Name                       | ID       |
-|----------------------------|----------|
-| Vũ Hoàng Nhật Anh (Leader) | MSSV     |
-| Chu Trung Anh              | 20225564 |
-| Trần Nhật Minh             | MSSV     |
-| Trần Nam Tuấn Vượng        | MSSV     |
+| Name                       | ID        |
+|----------------------------|-----------|
+| Vũ Hoàng Nhật Anh (Leader) | 20225471  |
+| Chu Trung Anh              | 20225564  |
+| Trần Nhật Minh             | 20225511  |
+| Trần Nam Tuấn Vượng        | 20225540  |
 
 
 
